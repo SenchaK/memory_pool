@@ -34,3 +34,24 @@ Icon
 # Files that might appear on external disk
 .Spotlight-V100
 .Trashes
+
+memory_pool/Debug/memory_pool.exe
+memory_pool/Debug/memory_pool.ilk
+memory_pool/Debug/memory_pool.pdb
+memory_pool/ipch/memory_pool-4de17cf8/memory_pool-6a2d40de.ipch
+memory_pool/memory_pool.opensdf
+memory_pool/memory_pool.sdf
+memory_pool/memory_pool.suo
+memory_pool/memory_pool/Debug/cl.command.1.tlog
+*.tlog
+*.obj
+*.manifest
+*.res
+*.lastbuildstate
+*.log
+*.cache
+*.rc
+*.idb
+*.pdb
+*.filters
+*.user
